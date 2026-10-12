@@ -1,0 +1,16 @@
+.gradle/
+.idea/
+.toolchain/
+local.properties
+*.jks
+*.keystore
+build/
+app/build/
+captures/
+*.iml
+
+
+训练与增肌计划.md
+dist/*.json
+dist/*.idsig
+dist/*.apk
